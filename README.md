@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GonzaloPereira
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MongoDB
-- 💞️ I’m looking to collaborate on various projects
+- 💞️ I’m looking to work on Sofwate Engineering Intern roles
 - 📫 How to reach me: email me at gonzalo.pereira.r@uni.pe
 
 <!---
