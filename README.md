@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GonzaloPereira
 - 👀 I’m interested in Web Development
-- 💞️ I’m looking to work on Sofwate Engineering Intern roles
+- 💞️ I’m looking to work on Sofwate Engineering roles
 - 📫 How to reach me: email me at gonzalo.pereira.r@uni.pe
 
 <!---
