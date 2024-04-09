@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GonzaloPereira
-- 👀 I’m interested in Web Development
-- 💞️ I’m looking to work on Sofwate Engineering roles
-- 📫 How to reach me: email me at gonzalo.pereira.r@uni.pe
+- 👀 I’m interested in Machine Learning
+- 💞️ I’m looking to work on Data Science / Machine Learning roles
+- 📫 How to reach me: email me at gonzalopereiraramirez@gmail.com
 
 <!---
 GonzaloPereira/GonzaloPereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
