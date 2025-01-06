@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GonzaloPereira
-- 👀 I’m interested in Machine Learning
-- 💞️ I’m looking to work on Data Science / Machine Learning roles
-- 📫 How to reach me: email me at gonzalopereiraramirez@gmail.com
+- Mechatronics engineer from Universidad Nacional de Ingenieria from Peru
+- SDE at AWS in Dublin
+- Also interested in IA as everyone :)
 
 <!---
 GonzaloPereira/GonzaloPereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
